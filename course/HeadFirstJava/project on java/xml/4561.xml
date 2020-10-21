@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" orderid="000000">
+    <orderperson>orderperson0</orderperson>
+    <shipto>
+        <name>name0</name>
+        <address>address0</address>
+        <city>city0</city>
+        <country>country0</country>
+    </shipto>
+    <item>
+        <title>title0</title>
+        <quantity>50</quantity>
+        <price>0</price>
+    </item>
+    <item>
+        <title>title1</title>
+        <quantity>50</quantity>
+        <price>0</price>
+    </item>
+</shiporder>

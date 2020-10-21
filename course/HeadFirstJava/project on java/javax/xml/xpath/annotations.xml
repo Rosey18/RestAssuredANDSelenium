@@ -1,0 +1,7 @@
+<root>
+    <item name='javax.xml.xpath.XPath java.lang.String evaluate(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>

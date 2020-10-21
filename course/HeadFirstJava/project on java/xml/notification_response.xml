@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<re:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:jaxb="http://java.sun.com/xml/ns/jaxb"
+ xmlns:re="http://rnion.kz/knp/notifications/response"
+ xsi:schemaLocation="http://rnion.kz/knp/notifications/response file:/C:/Users/%D0%A2%D0%B8%D0%B3%D1%80/oxygen-workspace/IDK.xsd">
+    <re:HEAD>
+        <re:MESSAGE_TYPE>notifications</re:MESSAGE_TYPE>
+        <re:ID_MESSAGE>ID_MESSAGE0</re:ID_MESSAGE>
+        <re:ID_REQUEST_MESSAGE>ID_REQUEST_MESSAGE0</re:ID_REQUEST_MESSAGE>
+        <re:DATE_TIME_MESSAGE>2006-05-04T18:13:51.0</re:DATE_TIME_MESSAGE>
+        <re:SENDER>rnion</re:SENDER>
+        <re:DESTINATION>knp</re:DESTINATION>
+        <re:MESSAGE_FORMAT_VERSION>1.0</re:MESSAGE_FORMAT_VERSION>
+    </re:HEAD>
+    <re:DATA>
+        <re:NOTIFICATION>
+            <re:PRINTDATETIME>2006-05-04T18:13:51.0</re:PRINTDATETIME>
+            <re:NOTIFNO>NOTIFNO0</re:NOTIFNO>
+            <re:ATNK>ATNK0</re:ATNK>
+            <re:FIO>FIO0</re:FIO>
+            <re:CODEKATO>CODEKATO0</re:CODEKATO>
+            <re:SETTLEMENT>SETTLEMENT0</re:SETTLEMENT>
+            <re:PERIOD>PERI</re:PERIOD>
+            <re:DATEPAYMENT>DATE</re:DATEPAYMENT>
+            <re:SOSTAV_UVEDOMPLENIYA>
+                <re:STATE_REVENUE_INFO>
+                    <re:kod_ogd>kod_ogd0</re:kod_ogd>
+                    <re:polnoe_naimenovanie_ogd_rus>polnoe_naimenovanie_ogd_rus0</re:polnoe_naimenovanie_ogd_rus>
+                    <re:polnoe_naimenovanie_ogd_gos>polnoe_naimenovanie_ogd_gos0</re:polnoe_naimenovanie_ogd_gos>
+                    <re:kratkoe_naimenovanie_ogd_rus>kratkoe_naimenovanie_ogd_rus0</re:kratkoe_naimenovanie_ogd_rus>
+                    <re:kratkoe_naimenovanie_ogd_gos>kratkoe_naimenovanie_ogd_gos0</re:kratkoe_naimenovanie_ogd_gos>
+                    <re:TAXATIONS>
+                        <re:TAXATION>
+                            <re:LAND>
+                                <re:KINDTAX>Земельный налог</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO1</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT1</re:SETTLEMENT>
+                                <re:TAXABLE>Земельный участок</re:TAXABLE>
+                                <re:SQUARE>0</re:SQUARE>
+                                <re:KBK>KBK0</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:LAND>
+                            <re:LAND>
+                                <re:KINDTAX>Земельный налог</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO2</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT2</re:SETTLEMENT>
+                                <re:TAXABLE>Земельный участок</re:TAXABLE>
+                                <re:SQUARE>0</re:SQUARE>
+                                <re:KBK>KBK1</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:LAND>
+                            <re:REALTY>
+                                <re:KINDTAX>Налог на имущество</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO3</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT3</re:SETTLEMENT>
+                                <re:TAXABLE>TAXABLE0</re:TAXABLE>
+                                <re:COST>0</re:COST>
+                                <re:KBK>104102</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:REALTY>
+                            <re:REALTY>
+                                <re:KINDTAX>Налог на имущество</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO4</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT4</re:SETTLEMENT>
+                                <re:TAXABLE>TAXABLE1</re:TAXABLE>
+                                <re:COST>0</re:COST>
+                                <re:KBK>104102</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:REALTY>
+                        </re:TAXATION>
+                        <re:TAXATION>
+                            <re:LAND>
+                                <re:KINDTAX>Земельный налог</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO5</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT5</re:SETTLEMENT>
+                                <re:TAXABLE>Земельный участок</re:TAXABLE>
+                                <re:SQUARE>0</re:SQUARE>
+                                <re:KBK>KBK2</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:LAND>
+                            <re:LAND>
+                                <re:KINDTAX>Земельный налог</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO6</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT6</re:SETTLEMENT>
+                                <re:TAXABLE>Земельный участок</re:TAXABLE>
+                                <re:SQUARE>0</re:SQUARE>
+                                <re:KBK>KBK3</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:LAND>
+                            <re:REALTY>
+                                <re:KINDTAX>Налог на имущество</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO7</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT7</re:SETTLEMENT>
+                                <re:TAXABLE>TAXABLE2</re:TAXABLE>
+                                <re:COST>0</re:COST>
+                                <re:KBK>104102</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:REALTY>
+                            <re:REALTY>
+                                <re:KINDTAX>Налог на имущество</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO8</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT8</re:SETTLEMENT>
+                                <re:TAXABLE>TAXABLE3</re:TAXABLE>
+                                <re:COST>0</re:COST>
+                                <re:KBK>104102</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:REALTY>
+                        </re:TAXATION>
+                    </re:TAXATIONS>
+                </re:STATE_REVENUE_INFO>
+                <re:STATE_REVENUE_INFO>
+                    <re:kod_ogd>kod_ogd1</re:kod_ogd>
+                    <re:polnoe_naimenovanie_ogd_rus>polnoe_naimenovanie_ogd_rus1</re:polnoe_naimenovanie_ogd_rus>
+                    <re:polnoe_naimenovanie_ogd_gos>polnoe_naimenovanie_ogd_gos1</re:polnoe_naimenovanie_ogd_gos>
+                    <re:kratkoe_naimenovanie_ogd_rus>kratkoe_naimenovanie_ogd_rus1</re:kratkoe_naimenovanie_ogd_rus>
+                    <re:kratkoe_naimenovanie_ogd_gos>kratkoe_naimenovanie_ogd_gos1</re:kratkoe_naimenovanie_ogd_gos>
+                    <re:TAXATIONS>
+                        <re:TAXATION>
+                            <re:LAND>
+                                <re:KINDTAX>Земельный налог</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO9</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT9</re:SETTLEMENT>
+                                <re:TAXABLE>Земельный участок</re:TAXABLE>
+                                <re:SQUARE>0</re:SQUARE>
+                                <re:KBK>KBK4</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:LAND>
+                            <re:LAND>
+                                <re:KINDTAX>Земельный налог</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO10</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT10</re:SETTLEMENT>
+                                <re:TAXABLE>Земельный участок</re:TAXABLE>
+                                <re:SQUARE>0</re:SQUARE>
+                                <re:KBK>KBK5</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:LAND>
+                            <re:REALTY>
+                                <re:KINDTAX>Налог на имущество</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO11</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT11</re:SETTLEMENT>
+                                <re:TAXABLE>TAXABLE4</re:TAXABLE>
+                                <re:COST>0</re:COST>
+                                <re:KBK>104102</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:REALTY>
+                            <re:REALTY>
+                                <re:KINDTAX>Налог на имущество</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO12</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT12</re:SETTLEMENT>
+                                <re:TAXABLE>TAXABLE5</re:TAXABLE>
+                                <re:COST>0</re:COST>
+                                <re:KBK>104102</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:REALTY>
+                        </re:TAXATION>
+                        <re:TAXATION>
+                            <re:LAND>
+                                <re:KINDTAX>Земельный налог</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO13</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT13</re:SETTLEMENT>
+                                <re:TAXABLE>Земельный участок</re:TAXABLE>
+                                <re:SQUARE>0</re:SQUARE>
+                                <re:KBK>KBK6</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:LAND>
+                            <re:LAND>
+                                <re:KINDTAX>Земельный налог</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO14</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT14</re:SETTLEMENT>
+                                <re:TAXABLE>Земельный участок</re:TAXABLE>
+                                <re:SQUARE>0</re:SQUARE>
+                                <re:KBK>KBK7</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:LAND>
+                            <re:REALTY>
+                                <re:KINDTAX>Налог на имущество</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO15</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT15</re:SETTLEMENT>
+                                <re:TAXABLE>TAXABLE6</re:TAXABLE>
+                                <re:COST>0</re:COST>
+                                <re:KBK>104102</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:REALTY>
+                            <re:REALTY>
+                                <re:KINDTAX>Налог на имущество</re:KINDTAX>
+                                <re:CODEKATO>CODEKATO16</re:CODEKATO>
+                                <re:SETTLEMENT>SETTLEMENT16</re:SETTLEMENT>
+                                <re:TAXABLE>TAXABLE7</re:TAXABLE>
+                                <re:COST>0</re:COST>
+                                <re:KBK>104102</re:KBK>
+                                <re:TAX>0</re:TAX>
+                            </re:REALTY>
+                        </re:TAXATION>
+                    </re:TAXATIONS>
+                </re:STATE_REVENUE_INFO>
+            </re:SOSTAV_UVEDOMPLENIYA>
+        </re:NOTIFICATION>
+    </re:DATA>
+</re:document>
